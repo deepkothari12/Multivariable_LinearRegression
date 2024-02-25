@@ -1,2 +1,2 @@
-# Multivariable_LinearRegression
+# Single/Multivariable_LinearRegression
 Prediction using Linear Regression model
